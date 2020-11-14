@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: RoPE Process Design
+name: Process Design Systems Engineering
 
 # Short bio or description (displayed in the header)
-description: Empowering the Chemical Process Design with digital tools
+description: Creating tools to empower Chemical Process Design with Process Systems Engineering
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/rcdpereira/rcdpereira.github.io/master/images/RoPE_Logo.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/rcdpereira/rcdpereira.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: rodolphocdpereira@gmail.com
   facebook:
   flickr:
-  github: rcdpereira/RoPE
+  github: rcdpereira
   instagram:
   linkedin: company/rope-process-design
   pinterest:
