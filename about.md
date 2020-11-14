@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Rodolpho Pereira, Chemical Process Engineer from Rio de Janeiro, Brazil. Also bass player, husband, learner.
+Rodolpho Pereira, Chemical Process Engineer from Rio de Janeiro, Brazil. Also bass player, husband, learner.  
 
 Trying to deploy tools for enhancement of plant and process design, to allow the Chemical Process Industry development in a more sustainable, efficient and less costly way.
 
