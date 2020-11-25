@@ -7,7 +7,7 @@ Keeping on with the adventure, let's learn C++!
 
 I've decided to pursue C++ from mainly 3 reasons:
 1. It works close to hardware, which is important if you are trying to develop process controllers that need a fast response.
-2. It seemed that would open a lot of doors.
+2. It's useful for writing cross-platform mobile applications, which is part of the plans for the future.
 3. I like complicated stuff.
 
 But for learning C++, the decision was to pursue a different path, that led to another different path.
